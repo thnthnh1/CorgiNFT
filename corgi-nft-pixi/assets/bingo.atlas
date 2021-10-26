@@ -1,0 +1,27 @@
+
+bingo.png
+size: 847,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingo
+  rotate: false
+  xy: 430, 20
+  size: 327, 295
+  orig: 327, 295
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 759, 229
+  size: 86, 86
+  orig: 88, 88
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 2, 2
+  size: 426, 313
+  orig: 426, 313
+  offset: 0, 0
+  index: -1

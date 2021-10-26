@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIXI TEST</title>
+    <script src="js/pixi.min.js"></script>
+    <script src="js/pixi-spine.js"></script>
+    <script>
+        const Application = PIXI.Application,
+            Container = PIXI.Container,
+            resources = PIXI.Loader.shared.resources,
+            Graphics = PIXI.Graphics,
+            TextureCache = PIXI.utils.TextureCache,
+            Sprite = PIXI.Sprite,
+            Text = PIXI.Text,
+            TextStyle = PIXI.TextStyle;
+        const position = [200, 600, 800];
+        let app, gameStage;
+
+        class Character extends PIXI.spine.Spine {
+            constructor(name = "", x = 0, y = 0, hp = 0, data, anchor = 0) {
+                super(data);
+                this.scale.set(anchor);
+                this.name = name;
+                this.x = x;
+                this.y = y;
+                this.hp = hp;
+            }
+
+            getName () {
+                return this.name;
+            }
+
+            getHp() {
+                return this.hp;
+            }
+
+            setCharacter() {
+                this.character = character;
+            }
+
+            setIdleAnimation(character, idle) {
+                character.state.setAnimation(0, idle, true);
+            }
+
+            setAttackAnimation(character, attack) {
+                character.state.setAnimation(0, attack, true);
+            }
+        }
+
+        window.onload = function() {
+            app = createApp();
+            document.body.appendChild(app.view);
+            loadResouces(app);
+            
+        }
+
+        function createApp() {
+            return new Application(
+                {
+                    width: 1900,
+                    height: 900,
+                    transparent: true,
+                    antialias: true
+                }
+            );
+        }
+
+        function loadResouces(app)
+        {
+            app.loader
+                .add('cat', 'assets/Cat.json')
+                .add('bird', 'assets/Bird.json')
+                .add('shark', 'assets/Shark.json')
+                .add('corgi', 'assets/corgi_anim.json')
+                .add('bingo', 'assets/bingo.json')
+                .add('golem', 'assets/Golem.json')
+                .add('thanden', 'assets/thanden.json')
+                .load(setup);
+        }
+
+        function setup(loader, res) {
+            createGameStage();
+            createCharacters(loader, res);
+            createEnermies(loader, res);
+            gameStage.addChild(createBackground());
+        }
+
+        function createGameStage() {
+            gameStage = new Container();
+            app.stage.addChild(gameStage);
+        }
+
+        function createBackground() {
+            var bgImage = PIXI.Texture.from('/images/B2.png');
+            var bgTexture = new PIXI.Texture(bgImage, new PIXI.Rectangle(0, 100, 960, 50));
+            var background = new PIXI.Sprite(bgImage);
+            background.anchor.x = 0;
+            background.anchor.y = 0;
+            background.position.x = 0;
+            background.position.y = 0;
+            return background;            
+        }
+
+        function createCharacters(loader, res) {
+            var cat = new Character('cat', 650, position[2], 500,  res.cat.spineData, 0.22);
+            var corgi = new Character('corgi', 650, position[1], 500,  res.corgi.spineData, 0.2);
+
+            var bird = new Character('bird', 350, position[1], 500,  res.bird.spineData, 0.23);
+            var shark = new Character('shark', 350, position[2], 500,  res.shark.spineData, 0.24);
+
+            app.stage.addChild(cat);
+            app.stage.addChild(bird);
+            app.stage.addChild(shark);
+            app.stage.addChild(corgi);
+
+            setIdleAnimation(cat, "idle");
+            setIdleAnimation(bird, "standing");
+            setIdleAnimation(corgi, "standing");
+            setIdleAnimation(shark, "standing");
+        }
+
+        function setIdleAnimation(character, idle) {
+            character.setIdleAnimation(character, idle);
+        }
+
+        function createEnermies(loader, res) {
+            var bingo = new Character('bingo', 1100, 700, 500,  res.bingo.spineData, 0.12);
+            var golem = new Character('golem', 1350, 850, 500,  res.golem.spineData, 0.2);
+            var thanden = new Character('thanden', 1350, 650, 500,  res.thanden.spineData, 0.35);
+
+            app.stage.addChild(bingo);
+            app.stage.addChild(thanden);
+            app.stage.addChild(golem);
+
+            setIdleAnimation(bingo, "idle");
+            setIdleAnimation(golem, "idle");
+            setIdleAnimation(thanden, "idle");
+        }
+    </script>
+</head>
+<body>
+</body>
+</html>

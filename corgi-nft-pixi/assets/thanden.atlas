@@ -1,0 +1,391 @@
+
+thanden.png
+size: 1982,1693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_00
+  rotate: false
+  xy: 1801, 1491
+  size: 165, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_03
+  rotate: false
+  xy: 829, 296
+  size: 169, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_04
+  rotate: false
+  xy: 485, 295
+  size: 170, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_05
+  rotate: false
+  xy: 657, 295
+  size: 170, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_07
+  rotate: false
+  xy: 1632, 1491
+  size: 167, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_08
+  rotate: false
+  xy: 1414, 857
+  size: 164, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_09
+  rotate: false
+  xy: 1658, 453
+  size: 160, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_12
+  rotate: false
+  xy: 1580, 857
+  size: 162, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_13
+  rotate: false
+  xy: 1598, 655
+  size: 161, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_14
+  rotate: false
+  xy: 1761, 667
+  size: 160, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_15
+  rotate: false
+  xy: 1753, 251
+  size: 160, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_17
+  rotate: false
+  xy: 1820, 465
+  size: 160, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_18
+  rotate: false
+  xy: 1759, 49
+  size: 160, 200
+  orig: 170, 200
+  offset: 2, 0
+  index: -1
+Fire_19
+  rotate: false
+  xy: 1794, 1073
+  size: 161, 197
+  orig: 170, 200
+  offset: 1, 0
+  index: -1
+Fire_21
+  rotate: false
+  xy: 1630, 1071
+  size: 162, 199
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Fire_22
+  rotate: false
+  xy: 1744, 869
+  size: 161, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Khoicau_00
+  rotate: false
+  xy: 977, 1269
+  size: 215, 211
+  orig: 270, 270
+  offset: 28, 27
+  index: -1
+Khoicau_01
+  rotate: false
+  xy: 1542, 2
+  size: 215, 211
+  orig: 270, 270
+  offset: 28, 27
+  index: -1
+Khoicau_02
+  rotate: false
+  xy: 1098, 212
+  size: 216, 211
+  orig: 270, 270
+  offset: 28, 27
+  index: -1
+Khoicau_03
+  rotate: false
+  xy: 1194, 1269
+  size: 215, 211
+  orig: 270, 270
+  offset: 28, 27
+  index: -1
+Khoicau_04
+  rotate: false
+  xy: 755, 846
+  size: 217, 211
+  orig: 270, 270
+  offset: 27, 27
+  index: -1
+Khoicau_05
+  rotate: false
+  xy: 716, 589
+  size: 219, 211
+  orig: 270, 270
+  offset: 26, 27
+  index: -1
+Khoicau_06
+  rotate: false
+  xy: 877, 83
+  size: 219, 211
+  orig: 270, 270
+  offset: 26, 27
+  index: -1
+Khoicau_07
+  rotate: false
+  xy: 755, 1481
+  size: 219, 210
+  orig: 270, 270
+  offset: 26, 27
+  index: -1
+Khoicau_08
+  rotate: false
+  xy: 1222, 426
+  size: 217, 210
+  orig: 270, 270
+  offset: 27, 27
+  index: -1
+Khoicau_09
+  rotate: false
+  xy: 1316, 214
+  size: 217, 210
+  orig: 270, 270
+  offset: 28, 27
+  index: -1
+Khoicau_10
+  rotate: false
+  xy: 1198, 1482
+  size: 215, 209
+  orig: 270, 270
+  offset: 30, 28
+  index: -1
+Khoicau_11
+  rotate: false
+  xy: 1415, 1482
+  size: 215, 209
+  orig: 270, 270
+  offset: 30, 28
+  index: -1
+Khoicau_12
+  rotate: false
+  xy: 1380, 638
+  size: 216, 208
+  orig: 270, 270
+  offset: 30, 28
+  index: -1
+Khoicau_13
+  rotate: false
+  xy: 1195, 848
+  size: 217, 209
+  orig: 270, 270
+  offset: 29, 27
+  index: -1
+Khoicau_14
+  rotate: false
+  xy: 755, 1270
+  size: 220, 209
+  orig: 270, 270
+  offset: 27, 27
+  index: -1
+Khoicau_15
+  rotate: false
+  xy: 937, 635
+  size: 219, 209
+  orig: 270, 270
+  offset: 27, 27
+  index: -1
+Khoicau_16
+  rotate: false
+  xy: 974, 848
+  size: 219, 209
+  orig: 270, 270
+  offset: 27, 27
+  index: -1
+Khoicau_17
+  rotate: false
+  xy: 976, 1482
+  size: 220, 209
+  orig: 270, 270
+  offset: 26, 27
+  index: -1
+Khoicau_18
+  rotate: false
+  xy: 755, 1059
+  size: 220, 209
+  orig: 270, 270
+  offset: 26, 27
+  index: -1
+Khoicau_19
+  rotate: false
+  xy: 1000, 425
+  size: 220, 208
+  orig: 270, 270
+  offset: 26, 28
+  index: -1
+Khoicau_20
+  rotate: false
+  xy: 1098, 3
+  size: 220, 207
+  orig: 270, 270
+  offset: 26, 28
+  index: -1
+Khoicau_21
+  rotate: false
+  xy: 1320, 5
+  size: 220, 207
+  orig: 270, 270
+  offset: 26, 28
+  index: -1
+Khoicau_22
+  rotate: false
+  xy: 1158, 638
+  size: 220, 208
+  orig: 270, 270
+  offset: 26, 28
+  index: -1
+Khoicau_23
+  rotate: false
+  xy: 977, 1059
+  size: 217, 208
+  orig: 270, 270
+  offset: 28, 28
+  index: -1
+Khoicau_24
+  rotate: false
+  xy: 1196, 1059
+  size: 215, 208
+  orig: 270, 270
+  offset: 29, 28
+  index: -1
+Khoicau_25
+  rotate: false
+  xy: 1413, 1059
+  size: 215, 208
+  orig: 270, 270
+  offset: 29, 28
+  index: -1
+Khoicau_26
+  rotate: false
+  xy: 1628, 1272
+  size: 215, 208
+  orig: 270, 270
+  offset: 29, 28
+  index: -1
+Khoicau_27
+  rotate: false
+  xy: 1535, 215
+  size: 216, 209
+  orig: 270, 270
+  offset: 29, 28
+  index: -1
+Khoicau_28
+  rotate: false
+  xy: 1441, 426
+  size: 215, 210
+  orig: 270, 270
+  offset: 29, 28
+  index: -1
+Khoicau_29
+  rotate: false
+  xy: 1411, 1269
+  size: 215, 211
+  orig: 270, 270
+  offset: 28, 27
+  index: -1
+armL
+  rotate: false
+  xy: 631, 36
+  size: 244, 257
+  orig: 244, 257
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 289
+  size: 481, 511
+  orig: 481, 511
+  offset: 0, 0
+  index: -1
+close eyes
+  rotate: false
+  xy: 851, 508
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 716, 498
+  size: 133, 89
+  orig: 135, 91
+  offset: 1, 1
+  index: -1
+glow_soft
+  rotate: false
+  xy: 877, 6
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 359, 9
+  size: 270, 278
+  orig: 270, 278
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 485, 497
+  size: 229, 303
+  orig: 229, 303
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 16
+  size: 355, 271
+  orig: 355, 271
+  offset: 0, 0
+  index: -1
+templet
+  rotate: false
+  xy: 2, 802
+  size: 751, 889
+  orig: 751, 889
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Golem.png
+size: 1660,1480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 1298, 426
+  size: 360, 385
+  orig: 362, 387
+  offset: 1, 1
+  index: -1
+armR
+  rotate: false
+  xy: 1298, 21
+  size: 201, 403
+  orig: 203, 405
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 585, 2
+  size: 711, 809
+  orig: 713, 811
+  offset: 1, 1
+  index: -1
+handL
+  rotate: false
+  xy: 2, 512
+  size: 581, 966
+  orig: 581, 966
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 585, 813
+  size: 892, 665
+  orig: 892, 665
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 3
+  size: 531, 507
+  orig: 533, 509
+  offset: 1, 1
+  index: -1

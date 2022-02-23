@@ -1,0 +1,125 @@
+
+Thief_goblin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bone
+  rotate: false
+  xy: 173, 14
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 2, 24
+  size: 169, 186
+  orig: 169, 186
+  offset: 0, 0
+  index: -1
+closeeyesL
+  rotate: false
+  xy: 431, 145
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+closeeyesR
+  rotate: false
+  xy: 859, 393
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+forearmL
+  rotate: false
+  xy: 615, 293
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+forearmR
+  rotate: false
+  xy: 282, 2
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 654, 421
+  size: 256, 86
+  orig: 256, 86
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 769, 344
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 212
+  size: 402, 295
+  orig: 407, 305
+  offset: 5, 0
+  index: -1
+hip
+  rotate: false
+  xy: 173, 83
+  size: 168, 127
+  orig: 168, 140
+  offset: 0, 0
+  index: -1
+hoodie
+  rotate: false
+  xy: 406, 401
+  size: 246, 106
+  orig: 246, 106
+  offset: 0, 0
+  index: -1
+shinL
+  rotate: false
+  xy: 431, 177
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+shinR
+  rotate: false
+  xy: 698, 319
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+thighL
+  rotate: false
+  xy: 343, 94
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+thighR
+  rotate: false
+  xy: 912, 410
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+upperarmL
+  rotate: false
+  xy: 406, 276
+  size: 108, 123
+  orig: 109, 123
+  offset: 0, 0
+  index: -1
+upperarmR
+  rotate: false
+  xy: 516, 292
+  size: 97, 107
+  orig: 97, 107
+  offset: 0, 0
+  index: -1

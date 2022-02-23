@@ -1,0 +1,83 @@
+
+Moon_cat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LE1
+  rotate: false
+  xy: 601, 104
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+LE2
+  rotate: false
+  xy: 951, 416
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+Leg.L
+  rotate: false
+  xy: 703, 290
+  size: 128, 179
+  orig: 128, 179
+  offset: 0, 0
+  index: -1
+Leg.R
+  rotate: false
+  xy: 330, 2
+  size: 114, 159
+  orig: 114, 159
+  offset: 0, 0
+  index: -1
+arm.L
+  rotate: false
+  xy: 446, 18
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+arm.R
+  rotate: false
+  xy: 525, 22
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 5
+  size: 326, 204
+  orig: 327, 212
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 211
+  size: 391, 258
+  orig: 391, 270
+  offset: 0, 0
+  index: -1
+leaf tail
+  rotate: false
+  xy: 833, 296
+  size: 116, 173
+  orig: 116, 173
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 395, 163
+  size: 306, 306
+  orig: 306, 355
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 703, 162
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1

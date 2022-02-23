@@ -1,0 +1,146 @@
+
+Eaglato.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aochoang
+  rotate: false
+  xy: 993, 671
+  size: 349, 335
+  orig: 349, 335
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 287, 362
+  orig: 287, 362
+  offset: 0, 0
+  index: -1
+eyesL
+  rotate: false
+  xy: 497, 312
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+eyesR
+  rotate: false
+  xy: 1553, 713
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+eyesbrownL
+  rotate: false
+  xy: 441, 161
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+eyesbrownR
+  rotate: false
+  xy: 668, 534
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 1928, 975
+  size: 118, 31
+  orig: 118, 31
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 1130, 638
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 1344, 637
+  size: 207, 123
+  orig: 207, 123
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 1645, 741
+  size: 161, 265
+  orig: 161, 265
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 1808, 734
+  size: 118, 272
+  orig: 118, 272
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 337, 520
+  size: 329, 486
+  orig: 329, 486
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1344, 762
+  size: 299, 244
+  orig: 299, 244
+  offset: 0, 0
+  index: -1
+kinh
+  rotate: false
+  xy: 337, 360
+  size: 224, 158
+  orig: 224, 158
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 993, 584
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 668, 583
+  size: 323, 423
+  orig: 323, 423
+  offset: 0, 0
+  index: -1
+shinL
+  rotate: false
+  xy: 291, 11
+  size: 148, 194
+  orig: 148, 194
+  offset: 0, 0
+  index: -1
+shinR
+  rotate: false
+  xy: 563, 324
+  size: 148, 194
+  orig: 148, 194
+  offset: 0, 0
+  index: -1
+sword4
+  rotate: false
+  xy: 2, 366
+  size: 333, 640
+  orig: 333, 640
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 291, 207
+  size: 204, 151
+  orig: 204, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Sea_dog.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+close eyes
+  rotate: false
+  xy: 2, 2
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 994, 98
+  size: 145, 156
+  orig: 145, 156
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 1044, 58
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+eff_splash1
+  rotate: false
+  xy: 2, 8
+  size: 256, 246
+  orig: 256, 246
+  offset: 0, 0
+  index: -1
+eff_splash2
+  rotate: false
+  xy: 260, 20
+  size: 251, 234
+  orig: 256, 246
+  offset: 5, 0
+  index: -1
+eff_splash3
+  rotate: false
+  xy: 513, 20
+  size: 249, 234
+  orig: 256, 246
+  offset: 7, 0
+  index: -1
+eff_splash4
+  rotate: false
+  xy: 764, 38
+  size: 228, 216
+  orig: 256, 246
+  offset: 28, 0
+  index: -1
+eyes L
+  rotate: false
+  xy: 1141, 184
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+eyes R
+  rotate: false
+  xy: 1185, 234
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+vayphai
+  rotate: false
+  xy: 1141, 206
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+vaytrai
+  rotate: false
+  xy: 994, 45
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1

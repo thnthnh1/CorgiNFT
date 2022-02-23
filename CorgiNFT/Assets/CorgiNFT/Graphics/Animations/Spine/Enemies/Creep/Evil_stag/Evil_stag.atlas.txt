@@ -1,0 +1,62 @@
+
+Evil_stag.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+closeeyes
+  rotate: false
+  xy: 376, 98
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+huu_chansau1
+  rotate: false
+  xy: 205, 10
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+huu_chansau2
+  rotate: false
+  xy: 376, 127
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+huu_chantruoc1
+  rotate: false
+  xy: 159, 9
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+huu_chantruoc2
+  rotate: false
+  xy: 437, 129
+  size: 55, 102
+  orig: 55, 102
+  offset: 0, 0
+  index: -1
+huu_co
+  rotate: false
+  xy: 230, 82
+  size: 144, 149
+  orig: 146, 151
+  offset: 1, 1
+  index: -1
+huu_dau
+  rotate: false
+  xy: 2, 91
+  size: 226, 140
+  orig: 228, 142
+  offset: 1, 1
+  index: -1
+huu_than
+  rotate: false
+  xy: 2, 2
+  size: 155, 87
+  orig: 155, 87
+  offset: 0, 0
+  index: -1

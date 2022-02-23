@@ -1,0 +1,125 @@
+
+Dodo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 1791, 812
+  size: 202, 193
+  orig: 203, 197
+  offset: 0, 4
+  index: -1
+armR
+  rotate: false
+  xy: 646, 403
+  size: 151, 224
+  orig: 151, 224
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 300, 529
+  size: 344, 476
+  orig: 344, 476
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 300, 465
+  size: 80, 62
+  orig: 81, 65
+  offset: 1, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 471, 488
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 935, 669
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 799, 431
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1247, 671
+  size: 199, 141
+  orig: 199, 141
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 2
+  size: 292, 432
+  orig: 292, 432
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 799, 469
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 1448, 647
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1552, 847
+  size: 237, 158
+  orig: 237, 158
+  offset: 0, 0
+  index: -1
+phao
+  rotate: false
+  xy: 935, 707
+  size: 310, 298
+  orig: 310, 298
+  offset: 0, 0
+  index: -1
+sword3
+  rotate: false
+  xy: 2, 436
+  size: 296, 569
+  orig: 296, 569
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1247, 814
+  size: 303, 191
+  orig: 303, 191
+  offset: 0, 0
+  index: -1
+tailfin
+  rotate: false
+  xy: 382, 486
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: false
+  xy: 646, 629
+  size: 287, 376
+  orig: 287, 376
+  offset: 0, 0
+  index: -1

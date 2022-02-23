@@ -1,0 +1,104 @@
+
+Mammoth.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+closeeyes
+  rotate: false
+  xy: 2, 2
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+closeeyes2
+  rotate: false
+  xy: 754, 198
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+voi_chansau1
+  rotate: false
+  xy: 798, 141
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+voi_chansau2
+  rotate: false
+  xy: 933, 190
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+voi_chansau3
+  rotate: false
+  xy: 798, 84
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+voi_chansau4
+  rotate: false
+  xy: 973, 190
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+voi_chantruoc1
+  rotate: false
+  xy: 754, 138
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+voi_chantruoc2
+  rotate: false
+  xy: 851, 191
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+voi_chantruoc3
+  rotate: false
+  xy: 754, 78
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+voi_chantruoc4
+  rotate: false
+  xy: 892, 191
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+voi_dau
+  rotate: false
+  xy: 2, 41
+  size: 174, 204
+  orig: 176, 206
+  offset: 1, 1
+  index: -1
+voi_dau2
+  rotate: false
+  xy: 588, 51
+  size: 164, 194
+  orig: 176, 206
+  offset: 10, 1
+  index: -1
+voi_than
+  rotate: false
+  xy: 178, 82
+  size: 203, 163
+  orig: 204, 163
+  offset: 0, 0
+  index: -1
+voi_than2
+  rotate: false
+  xy: 383, 82
+  size: 203, 163
+  orig: 204, 163
+  offset: 0, 0
+  index: -1

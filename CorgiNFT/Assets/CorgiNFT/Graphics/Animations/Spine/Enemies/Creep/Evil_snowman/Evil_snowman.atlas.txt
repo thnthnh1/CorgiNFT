@@ -1,0 +1,62 @@
+
+Evil_snowman.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan-phai
+  rotate: false
+  xy: 56, 2
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+chan-trai
+  rotate: false
+  xy: 2, 2
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 2, 70
+  size: 149, 184
+  orig: 149, 184
+  offset: 0, 0
+  index: -1
+eyes L
+  rotate: false
+  xy: 153, 98
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+eyes R
+  rotate: false
+  xy: 109, 42
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+tay-trai
+  rotate: false
+  xy: 378, 156
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: false
+  xy: 297, 158
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 153, 125
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1

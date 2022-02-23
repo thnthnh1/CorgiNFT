@@ -1,0 +1,174 @@
+
+Corgi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 374, 334
+  size: 168, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 377, 156
+  size: 112, 176
+  orig: 112, 176
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 1102, 649
+  size: 388, 373
+  orig: 388, 373
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1492, 781
+  size: 198, 241
+  orig: 198, 241
+  offset: 0, 0
+  index: -1
+closeeyeL
+  rotate: false
+  xy: 2, 7
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+closeeyeR
+  rotate: false
+  xy: 377, 137
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 282, 128
+  size: 93, 180
+  orig: 93, 180
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 1943, 855
+  size: 100, 167
+  orig: 100, 167
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 491, 282
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 741, 500
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+eyebrowL
+  rotate: false
+  xy: 139, 54
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+eyebrowR
+  rotate: false
+  xy: 697, 441
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 1692, 810
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 1211, 618
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1692, 846
+  size: 249, 176
+  orig: 249, 176
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 23
+  size: 135, 66
+  orig: 135, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 91
+  size: 278, 217
+  orig: 278, 217
+  offset: 0, 0
+  index: -1
+headphone
+  rotate: false
+  xy: 374, 482
+  size: 365, 540
+  orig: 365, 540
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 1102, 512
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 282, 2
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 544, 346
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 741, 552
+  size: 359, 470
+  orig: 359, 470
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 310
+  size: 370, 712
+  orig: 370, 712
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1492, 661
+  size: 170, 118
+  orig: 170, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+Akita.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 888, 334
+  size: 114, 195
+  orig: 114, 195
+  offset: 0, 0
+  index: -1
+boten
+  rotate: false
+  xy: 888, 531
+  size: 465, 447
+  orig: 465, 447
+  offset: 0, 0
+  index: -1
+closeeyeL
+  rotate: false
+  xy: 602, 189
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+closeeyeR
+  rotate: false
+  xy: 448, 146
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+eyesL
+  rotate: false
+  xy: 687, 213
+  size: 73, 116
+  orig: 73, 116
+  offset: 0, 0
+  index: -1
+eyesR
+  rotate: false
+  xy: 1355, 551
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+eyesbrownL
+  rotate: false
+  xy: 364, 70
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+eyesbrownR
+  rotate: false
+  xy: 2, 2
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: -1
+firetailL
+  rotate: false
+  xy: 1454, 572
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+firetailR
+  rotate: false
+  xy: 1649, 687
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 1004, 376
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 1004, 376
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 602, 208
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 1974, 850
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 448, 331
+  size: 438, 647
+  orig: 438, 647
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1355, 651
+  size: 292, 327
+  orig: 292, 335
+  offset: 0, 8
+  index: -1
+kinh
+  rotate: false
+  xy: 1649, 767
+  size: 299, 211
+  orig: 299, 211
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1950, 701
+  size: 22, 277
+  orig: 22, 277
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1068, 509
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+row
+  rotate: false
+  xy: 2, 57
+  size: 360, 65
+  orig: 360, 65
+  offset: 0, 0
+  index: -1
+sword5
+  rotate: false
+  xy: 2, 124
+  size: 444, 854
+  orig: 444, 854
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 448, 168
+  size: 152, 161
+  orig: 152, 161
+  offset: 0, 0
+  index: -1
+thighL
+  rotate: false
+  xy: 1004, 401
+  size: 62, 128
+  orig: 62, 128
+  offset: 0, 0
+  index: -1
+thighR
+  rotate: false
+  xy: 1004, 401
+  size: 62, 128
+  orig: 62, 128
+  offset: 0, 0
+  index: -1

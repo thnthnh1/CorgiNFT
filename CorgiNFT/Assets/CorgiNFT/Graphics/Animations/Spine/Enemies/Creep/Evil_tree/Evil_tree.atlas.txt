@@ -1,0 +1,62 @@
+
+Evil_tree.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm. L
+  rotate: false
+  xy: 2, 2
+  size: 144, 131
+  orig: 144, 131
+  offset: 0, 0
+  index: -1
+Arm. R
+  rotate: false
+  xy: 415, 217
+  size: 138, 125
+  orig: 138, 125
+  offset: 0, 0
+  index: -1
+LE1
+  rotate: false
+  xy: 415, 170
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+LE2
+  rotate: false
+  xy: 148, 92
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Leg.L
+  rotate: false
+  xy: 581, 411
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+Leg.R
+  rotate: false
+  xy: 581, 411
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 415, 344
+  size: 164, 160
+  orig: 164, 160
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 135
+  size: 411, 369
+  orig: 411, 369
+  offset: 0, 0
+  index: -1

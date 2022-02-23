@@ -1,0 +1,76 @@
+
+Mr_wood.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 1863, 302
+  size: 160, 208
+  orig: 160, 208
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 1690, 295
+  size: 171, 215
+  orig: 171, 215
+  offset: 0, 0
+  index: -1
+Tree1
+  rotate: false
+  xy: 1144, 238
+  size: 285, 272
+  orig: 285, 275
+  offset: 0, 0
+  index: -1
+Tree2
+  rotate: false
+  xy: 794, 256
+  size: 348, 254
+  orig: 348, 255
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 479, 194
+  size: 313, 316
+  orig: 313, 320
+  offset: 0, 4
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 30
+  size: 209, 101
+  orig: 209, 101
+  offset: 0, 0
+  index: -1
+foodL
+  rotate: false
+  xy: 1431, 256
+  size: 257, 254
+  orig: 257, 254
+  offset: 0, 0
+  index: -1
+foodR
+  rotate: false
+  xy: 794, 2
+  size: 248, 252
+  orig: 248, 252
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 133
+  size: 475, 377
+  orig: 475, 377
+  offset: 0, 0
+  index: -1
+nouse
+  rotate: false
+  xy: 1044, 50
+  size: 134, 186
+  orig: 134, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,356 @@
+
+Crystal_beast.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin1/HandR
+  rotate: false
+  xy: 1179, 685
+  size: 236, 153
+  orig: 236, 153
+  offset: 0, 0
+  index: -1
+skin1/Jaw
+  rotate: false
+  xy: 925, 773
+  size: 252, 258
+  orig: 253, 258
+  offset: 0, 0
+  index: -1
+skin1/LE1
+  rotate: false
+  xy: 569, 885
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+skin1/chest
+  rotate: false
+  xy: 2, 84
+  size: 407, 323
+  orig: 407, 323
+  offset: 0, 0
+  index: -1
+skin1/foot
+  rotate: false
+  xy: 1687, 851
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+skin1/footR
+  rotate: false
+  xy: 1923, 1505
+  size: 91, 120
+  orig: 91, 121
+  offset: 0, 1
+  index: -1
+skin1/forearmL
+  rotate: false
+  xy: 569, 935
+  size: 329, 378
+  orig: 329, 378
+  offset: 0, 0
+  index: -1
+skin1/forearmR
+  rotate: false
+  xy: 400, 414
+  size: 261, 401
+  orig: 261, 401
+  offset: 0, 0
+  index: -1
+skin1/hair
+  rotate: false
+  xy: 2, 1432
+  size: 566, 614
+  orig: 566, 614
+  offset: 0, 0
+  index: -1
+skin1/handL
+  rotate: false
+  xy: 719, 29
+  size: 230, 219
+  orig: 230, 219
+  offset: 0, 0
+  index: -1
+skin1/headU
+  rotate: false
+  xy: 969, 1717
+  size: 461, 329
+  orig: 461, 329
+  offset: 0, 0
+  index: -1
+skin1/hip
+  rotate: false
+  xy: 1618, 1435
+  size: 303, 281
+  orig: 303, 281
+  offset: 0, 0
+  index: -1
+skin1/hiparmor
+  rotate: false
+  xy: 1894, 1838
+  size: 144, 208
+  orig: 144, 208
+  offset: 0, 0
+  index: -1
+skin1/lE2
+  rotate: false
+  xy: 1687, 822
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+skin1/shinL
+  rotate: false
+  xy: 1069, 47
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+skin1/shinR
+  rotate: false
+  xy: 2, 6
+  size: 138, 76
+  orig: 138, 76
+  offset: 0, 0
+  index: -1
+skin1/shoulderL
+  rotate: false
+  xy: 570, 1639
+  size: 397, 407
+  orig: 397, 407
+  offset: 0, 0
+  index: -1
+skin1/shoulderR
+  rotate: false
+  xy: 411, 44
+  size: 306, 368
+  orig: 309, 368
+  offset: 0, 0
+  index: -1
+skin1/teeth
+  rotate: false
+  xy: 1243, 94
+  size: 193, 162
+  orig: 193, 163
+  offset: 0, 1
+  index: -1
+skin1/thighL
+  rotate: false
+  xy: 1259, 471
+  size: 178, 212
+  orig: 178, 212
+  offset: 0, 0
+  index: -1
+skin1/thighR
+  rotate: false
+  xy: 1613, 986
+  size: 219, 165
+  orig: 219, 165
+  offset: 0, 0
+  index: -1
+skin1/toeL
+  rotate: false
+  xy: 142, 4
+  size: 118, 78
+  orig: 119, 78
+  offset: 0, 0
+  index: -1
+skin1/toeR
+  rotate: false
+  xy: 1468, 1071
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1
+skin1/upperarmL
+  rotate: false
+  xy: 719, 250
+  size: 285, 281
+  orig: 285, 281
+  offset: 0, 0
+  index: -1
+skin1/upperarmR
+  rotate: false
+  xy: 1186, 1089
+  size: 280, 247
+  orig: 280, 248
+  offset: 0, 0
+  index: -1
+skin2/HandR
+  rotate: false
+  xy: 1006, 140
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+skin2/Jaw
+  rotate: false
+  xy: 1006, 294
+  size: 251, 257
+  orig: 252, 257
+  offset: 0, 0
+  index: -1
+skin2/LE1
+  rotate: false
+  xy: 1923, 1455
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+skin2/chest
+  rotate: false
+  xy: 570, 1315
+  size: 406, 322
+  orig: 406, 322
+  offset: 0, 0
+  index: -1
+skin2/foot
+  rotate: false
+  xy: 1923, 1627
+  size: 107, 132
+  orig: 107, 132
+  offset: 0, 0
+  index: -1
+skin2/footR
+  rotate: false
+  xy: 1156, 563
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+skin2/forearmL
+  rotate: false
+  xy: 978, 1338
+  size: 328, 377
+  orig: 328, 377
+  offset: 0, 0
+  index: -1
+skin2/forearmR
+  rotate: false
+  xy: 663, 533
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+skin2/hair
+  rotate: false
+  xy: 2, 817
+  size: 565, 613
+  orig: 565, 613
+  offset: 0, 0
+  index: -1
+skin2/handL
+  rotate: false
+  xy: 925, 553
+  size: 229, 218
+  orig: 229, 218
+  offset: 0, 0
+  index: -1
+skin2/headU
+  rotate: false
+  xy: 1432, 1718
+  size: 460, 328
+  orig: 460, 328
+  offset: 0, 0
+  index: -1
+skin2/hip
+  rotate: false
+  xy: 1618, 1153
+  size: 302, 280
+  orig: 302, 280
+  offset: 0, 0
+  index: -1
+skin2/hiparmor
+  rotate: false
+  xy: 1468, 1139
+  size: 143, 207
+  orig: 143, 207
+  offset: 0, 0
+  index: -1
+skin2/lE2
+  rotate: false
+  xy: 1069, 18
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+skin2/shinL
+  rotate: false
+  xy: 951, 2
+  size: 116, 90
+  orig: 116, 90
+  offset: 0, 0
+  index: -1
+skin2/shinR
+  rotate: false
+  xy: 1894, 1761
+  size: 137, 75
+  orig: 137, 75
+  offset: 0, 0
+  index: -1
+skin2/shoulderL
+  rotate: false
+  xy: 2, 409
+  size: 396, 406
+  orig: 396, 406
+  offset: 0, 0
+  index: -1
+skin2/shoulderR
+  rotate: false
+  xy: 1308, 1348
+  size: 308, 367
+  orig: 308, 367
+  offset: 0, 0
+  index: -1
+skin2/teeth
+  rotate: false
+  xy: 1834, 989
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+skin2/thighL
+  rotate: false
+  xy: 1259, 258
+  size: 177, 211
+  orig: 177, 211
+  offset: 0, 0
+  index: -1
+skin2/thighR
+  rotate: false
+  xy: 1467, 820
+  size: 218, 164
+  orig: 218, 164
+  offset: 0, 0
+  index: -1
+skin2/toeL
+  rotate: false
+  xy: 262, 4
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1
+skin2/toeR
+  rotate: false
+  xy: 1467, 1003
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1
+skin2/upperarmL
+  rotate: false
+  xy: 900, 1033
+  size: 284, 280
+  orig: 284, 280
+  offset: 0, 0
+  index: -1
+skin2/upperarmR
+  rotate: false
+  xy: 1186, 840
+  size: 279, 247
+  orig: 279, 247
+  offset: 0, 0
+  index: -1

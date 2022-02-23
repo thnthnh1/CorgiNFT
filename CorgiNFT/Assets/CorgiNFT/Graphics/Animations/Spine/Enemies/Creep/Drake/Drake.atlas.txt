@@ -1,0 +1,83 @@
+
+Drake.png
+size: 1733,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 3
+  size: 356, 259
+  orig: 356, 259
+  offset: 0, 0
+  index: -1
+L.Leg
+  rotate: false
+  xy: 1590, 5
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+L.arm
+  rotate: false
+  xy: 1587, 157
+  size: 144, 105
+  orig: 144, 105
+  offset: 0, 0
+  index: -1
+R.arm
+  rotate: false
+  xy: 1438, 33
+  size: 150, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+R.leg
+  rotate: false
+  xy: 1438, 122
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+R.wing
+  rotate: false
+  xy: 663, 62
+  size: 317, 200
+  orig: 317, 200
+  offset: 0, 0
+  index: -1
+R.wing copy
+  rotate: false
+  xy: 1246, 60
+  size: 190, 202
+  orig: 190, 202
+  offset: 0, 0
+  index: -1
+eyesclose
+  rotate: false
+  xy: 663, 2
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+eyesclose2
+  rotate: false
+  xy: 1692, 121
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+head down
+  rotate: false
+  xy: 982, 76
+  size: 262, 186
+  orig: 262, 186
+  offset: 0, 0
+  index: -1
+head up
+  rotate: false
+  xy: 360, 25
+  size: 301, 237
+  orig: 301, 237
+  offset: 0, 0
+  index: -1

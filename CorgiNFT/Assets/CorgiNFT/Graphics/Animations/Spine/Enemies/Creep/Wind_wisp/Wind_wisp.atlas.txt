@@ -1,0 +1,139 @@
+
+Wind_wisp.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LE1
+  rotate: false
+  xy: 646, 319
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+LE2
+  rotate: false
+  xy: 709, 319
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 502, 329
+  size: 142, 181
+  orig: 142, 181
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 646, 369
+  size: 133, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 377, 143
+  size: 73, 176
+  orig: 76, 191
+  offset: 3, 0
+  index: -1
+forearmL
+  rotate: false
+  xy: 71, 10
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+forearmR
+  rotate: false
+  xy: 946, 455
+  size: 73, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 321
+  size: 304, 189
+  orig: 304, 189
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 377, 2
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 258, 46
+  size: 117, 273
+  orig: 117, 273
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 90
+  size: 254, 229
+  orig: 254, 229
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 196, 20
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 452, 270
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+sackB
+  rotate: false
+  xy: 308, 321
+  size: 192, 189
+  orig: 192, 191
+  offset: 0, 2
+  index: -1
+sackF
+  rotate: false
+  xy: 781, 388
+  size: 101, 122
+  orig: 101, 126
+  offset: 0, 4
+  index: -1
+thighL
+  rotate: false
+  xy: 2, 6
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+thighR
+  rotate: false
+  xy: 134, 22
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+upperarmL
+  rotate: false
+  xy: 377, 54
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+upperarmR
+  rotate: false
+  xy: 884, 421
+  size: 60, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1

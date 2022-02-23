@@ -1,0 +1,90 @@
+
+Lava_golem.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin1/armL
+  rotate: false
+  xy: 555, 665
+  size: 253, 271
+  orig: 253, 271
+  offset: 0, 0
+  index: -1
+skin1/armR
+  rotate: false
+  xy: 411, 752
+  size: 142, 284
+  orig: 142, 284
+  offset: 0, 0
+  index: -1
+skin1/body
+  rotate: false
+  xy: 1037, 1404
+  size: 499, 568
+  orig: 499, 568
+  offset: 0, 0
+  index: -1
+skin1/handL
+  rotate: false
+  xy: 628, 1296
+  size: 407, 676
+  orig: 407, 676
+  offset: 0, 0
+  index: -1
+skin1/handR
+  rotate: false
+  xy: 2, 1506
+  size: 624, 466
+  orig: 624, 466
+  offset: 0, 0
+  index: -1
+skin1/head
+  rotate: false
+  xy: 2, 2
+  size: 373, 356
+  orig: 373, 356
+  offset: 0, 0
+  index: -1
+skin2/armL
+  rotate: false
+  xy: 810, 665
+  size: 253, 271
+  orig: 253, 271
+  offset: 0, 0
+  index: -1
+skin2/armR
+  rotate: false
+  xy: 411, 466
+  size: 142, 284
+  orig: 142, 284
+  offset: 0, 0
+  index: -1
+skin2/body
+  rotate: false
+  xy: 1538, 1404
+  size: 499, 568
+  orig: 499, 568
+  offset: 0, 0
+  index: -1
+skin2/handL
+  rotate: false
+  xy: 2, 360
+  size: 407, 676
+  orig: 407, 676
+  offset: 0, 0
+  index: -1
+skin2/handR
+  rotate: false
+  xy: 2, 1038
+  size: 624, 466
+  orig: 624, 466
+  offset: 0, 0
+  index: -1
+skin2/head
+  rotate: false
+  xy: 628, 938
+  size: 373, 356
+  orig: 373, 356
+  offset: 0, 0
+  index: -1

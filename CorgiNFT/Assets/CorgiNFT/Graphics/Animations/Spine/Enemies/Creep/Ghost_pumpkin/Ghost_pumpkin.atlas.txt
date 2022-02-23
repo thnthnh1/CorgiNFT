@@ -1,0 +1,34 @@
+
+Ghost_pumpkin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingo
+  rotate: false
+  xy: 2, 2
+  size: 268, 242
+  orig: 268, 242
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 353, 433
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+glowat
+  rotate: false
+  xy: 272, 168
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 246
+  size: 349, 257
+  orig: 349, 257
+  offset: 0, 0
+  index: -1
